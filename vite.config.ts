@@ -5,7 +5,7 @@ import path from "path";
 export default defineConfig({
   // Base path for GitHub Pages (repo name). This ensures built asset URLs
   // include the repo path, e.g. /Cartilla-Digital-Ancestral/assets/...
-  base: "/unadista/",
+  base: "/",
   plugins: [react()],
   resolve: {
     extensions: [".js", ".jsx", ".ts", ".tsx", ".json"],
@@ -55,7 +55,7 @@ export default defineConfig({
   build: {
     target: "esnext",
     // Output to `docs` so GitHub Pages can serve directly from `main` (docs folder)
-    outDir: "docs",
+    outDir: "build",
   },
   server: {
     port: 3000,
