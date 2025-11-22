@@ -9,7 +9,7 @@ export function Agradecimientos() {
         <div className="flex justify-center mb-4">
           <Heart className="size-16 text-red-600 fill-red-600" />
         </div>
-        <h2 className="text-orange-800">Pura we' fxi'zenxi</h2>
+        <h2 className="text-orange-800">Pay</h2>
         <p className="text-orange-700 italic">(Gracias)</p>
       </div>
 

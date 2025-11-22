@@ -7,7 +7,7 @@ export function Introduccion() {
       {/* Hero Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
         <ImageWithFallback
-          src=".\public\img\unnamed.jpg"
+          src=".\public\img\fondo.jpeg"
           alt="Paisaje del Resguardo Indígena La Gaitana"
           className="w-full h-64 md:h-96 object-cover"
         />
@@ -30,7 +30,7 @@ export function Introduccion() {
       {/* Elders Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
         <ImageWithFallback
-          src="https://images.unsplash.com/photo-1665708468457-08c52d98cada?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpbmRpZ2Vub3VzJTIwZWxkZXJzJTIwd2lzZG9tfGVufDF8fHx8MTc2Mzc0NDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"
+          src=".\public\img\integrantes.jpeg"
           alt="Mayores de la comunidad"
           className="w-full h-64 md:h-80 object-cover"
         />

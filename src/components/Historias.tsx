@@ -15,7 +15,7 @@ export function Historias() {
       {/* Hero Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
         <ImageWithFallback
-          src="https://images.unsplash.com/photo-1687563100843-facb420d3b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpbmRpZ2Vub3VzJTIwcGVvcGxlJTIwZ2F0aGVyaW5nfGVufDF8fHx8MTc2Mzc0NDE4NXww&ixlib=rb-4.1.0&q=80&w=1080"
+          src=".\public\img\ritual.jpeg"
           alt="Comunidad reunida"
           className="w-full h-64 md:h-80 object-cover"
         />

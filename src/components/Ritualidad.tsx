@@ -139,16 +139,16 @@ export function Ritualidad() {
       </div>
 
       {/* Ritual Image */}
-      <div className="rounded-lg overflow-hidden shadow-lg">
-        <ImageWithFallback
+      {/* <div className="rounded-lg overflow-hidden shadow-lg"> */}
+        {/* <ImageWithFallback
           src="https://images.unsplash.com/photo-1609223708890-537ad732ebba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmFkaXRpb25hbCUyMGNlcmVtb255JTIwcml0dWFsfGVufDF8fHx8MTc2Mzc0NDE4NXww&ixlib=rb-4.1.0&q=80&w=1080"
           alt="Ritual Saakhelu"
           className="w-full h-64 md:h-96 object-cover"
-        />
-        <div className="bg-orange-700 text-white p-3 text-center">
+        /> */}
+        {/* <div className="bg-orange-700 text-white p-3 text-center">
           <p>Ceremonia tradicional - Saakhelu</p>
-        </div>
-      </div>
+        </div> */}
+      {/* </div> */}
 
       {/* Featured Quote */}
       <div className="bg-gradient-to-r from-orange-700 to-amber-600 text-white p-8 rounded-lg shadow-lg">
