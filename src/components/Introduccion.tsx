@@ -6,11 +6,12 @@ export function Introduccion() {
     <div className="space-y-8">
       {/* Hero Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
-        <ImageWithFallback
-          src=".\public\img\fondo.jpeg"
-          alt="Paisaje del Resguardo Indígena La Gaitana"
-          className="w-full h-64 md:h-96 object-cover"
-        />
+      <ImageWithFallback
+  src="/img/fondo.jpeg"
+  alt="Paisaje del Resguardo Indígena La Gaitana"
+  className="w-full h-64 md:h-96 object-cover"
+/>
+
       </div>
 
       {/* Title Section */}
@@ -30,7 +31,7 @@ export function Introduccion() {
       {/* Elders Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
         <ImageWithFallback
-          src=".\public\img\integrantes.jpeg"
+          src="/img/integrantes.jpeg"       
           alt="Mayores de la comunidad"
           className="w-full h-64 md:h-80 object-cover"
         />

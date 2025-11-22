@@ -14,7 +14,9 @@ export function OrigenNasa() {
       {/* Hero Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
         <ImageWithFallback
-          src=".\public\img\traje.jpeg"
+
+        src="/img/traje.jpeg"
+
           alt="Territorio ancestral Nasa"
           className="w-full h-64 md:h-80 object-cover"
         />

@@ -15,7 +15,8 @@ export function Historias() {
       {/* Hero Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
         <ImageWithFallback
-          src=".\public\img\ritual.jpeg"
+src="/img/ritual.jpeg"
+        
           alt="Comunidad reunida"
           className="w-full h-64 md:h-80 object-cover"
         />

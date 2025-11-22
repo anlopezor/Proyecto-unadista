@@ -16,7 +16,7 @@ export function MedicinaDiarrea() {
       {/* Hero Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
         <ImageWithFallback
-          src=".\public\img\plantas.jpeg"
+        src="/img/plantas.jpeg"
           alt="Plantas medicinales tradicionales"
           className="w-full h-48 md:h-64 object-cover"
         />
