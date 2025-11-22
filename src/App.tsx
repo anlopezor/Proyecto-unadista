@@ -68,8 +68,8 @@ export default function App() {
 
           {/* Imagen derecha */}
           <img
+           src="/img/fondo.jpeg"
           src="/img/unnamed.jpg"
-
             alt="Resguardo"
             className="w-10 h-10 object-contain"
           />

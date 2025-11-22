@@ -7,7 +7,7 @@ export function Introduccion() {
       {/* Hero Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
       <ImageWithFallback
-  src="/img/fondo.jpeg"
+   src="/img/fondo.jpeg"
   alt="Paisaje del Resguardo Indígena La Gaitana"
   className="w-full h-64 md:h-96 object-cover"
 />
