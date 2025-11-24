@@ -162,7 +162,8 @@ export function Agradecimientos() {
           © Resguardo Indígena La Gaitana, 2025
         </p>
         <p className="text-orange-700 mt-3 leading-relaxed">
-          El conocimiento aquí compartido es propiedad colectiva de nuestra comunidad
+          El conocimiento aquí compartido es propiedad colectiva de nuestra comunidad.
+          Diseño, desarrollo y digitalización por Angie Lorena Lopez Ortega, estudiante de Ingeniería de Sistemas.
         </p>
       </div>
     </div>
