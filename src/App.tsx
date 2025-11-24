@@ -68,8 +68,8 @@ export default function App() {
 
           {/* Imagen derecha */}
           <img
-           src="/img/fondo.jpeg"
-          src="/img/unnamed.jpg"
+            src="/img/fondo.jpeg"
+            src="/img/unnamed.jpg"
             alt="Resguardo"
             className="w-10 h-10 object-contain"
           />
@@ -139,7 +139,8 @@ export default function App() {
         <div className="container mx-auto px-4 text-center">
           <p>© Resguardo Indígena La Gaitana, 2025</p>
           <p className="text-amber-200 mt-2">
-            El conocimiento aquí compartido es propiedad colectiva de nuestra comunidad
+            El conocimiento aquí compartido es propiedad colectiva de nuestra comunidad.
+            Cartilla digital elaborada con dedicación por  Angie Lorena Lopez Ortega
           </p>
         </div>
       </footer>
