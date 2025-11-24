@@ -16,7 +16,7 @@ export function Agradecimientos() {
       {/* Community Image */}
       <div className="rounded-lg overflow-hidden shadow-lg">
         <ImageWithFallback
-          src="https://images.unsplash.com/photo-1687563100843-facb420d3b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpbmRpZ2Vub3VzJTIwcGVvcGxlJTIwZ2F0aGVyaW5nfGVufDF8fHx8MTc2Mzc0NDE4NXww&ixlib=rb-4.1.0&q=80&w=1080"
+          src="/img/fuego.jpeg"
           alt="Comunidad del Resguardo La Gaitana"
           className="w-full h-64 md:h-96 object-cover"
         />
@@ -28,7 +28,7 @@ export function Agradecimientos() {
           <Users className="size-12 text-orange-700 mx-auto" />
           <h3 className="text-orange-800">Agradecemos a nuestros mayores</h3>
           <p className="text-gray-700 leading-relaxed">
-            Por compartir generosamente su sabiduría ancestral, sus historias, 
+            Por compartir generosamente su sabiduría ancestral, sus historias,
             y sus conocimientos tradicionales con las nuevas generaciones.
           </p>
         </div>
@@ -53,7 +53,7 @@ export function Agradecimientos() {
               <h4 className="text-green-800">Te'wala y Sabedores</h4>
             </div>
             <p className="text-gray-700 leading-relaxed">
-              Los te'wala y sabedores tradicionales que mantienen viva la conexión 
+              Los te'wala y sabedores tradicionales que mantienen viva la conexión
               espiritual con el territorio y transmiten las prácticas ancestrales.
             </p>
           </div>
@@ -68,7 +68,7 @@ export function Agradecimientos() {
               <h4 className="text-purple-800">Mayores y Mayoras</h4>
             </div>
             <p className="text-gray-700 leading-relaxed">
-              Los mayores y mayoras portadores de la memoria, guardianes de las historias 
+              Los mayores y mayoras portadores de la memoria, guardianes de las historias
               y tradiciones que dan identidad a nuestro pueblo.
             </p>
           </div>
@@ -83,7 +83,7 @@ export function Agradecimientos() {
               <h4 className="text-blue-800">Jóvenes Aprendices</h4>
             </div>
             <p className="text-gray-700 leading-relaxed">
-              Los jóvenes que se interesaron por aprender y mantener vivos los conocimientos 
+              Los jóvenes que se interesaron por aprender y mantener vivos los conocimientos
               ancestrales para las generaciones futuras.
             </p>
           </div>
@@ -98,7 +98,7 @@ export function Agradecimientos() {
               <h4 className="text-yellow-800">Autoridades del Cabildo</h4>
             </div>
             <p className="text-gray-700 leading-relaxed">
-              Las autoridades del cabildo que impulsan la preservación cultural y 
+              Las autoridades del cabildo que impulsan la preservación cultural y
               el fortalecimiento de nuestra identidad.
             </p>
           </div>
@@ -117,7 +117,7 @@ export function Agradecimientos() {
               <strong>Universidad Nacional Abierta y a Distancia (UNAD)</strong>
             </p>
             <p className="leading-relaxed">
-              Por su acompañamiento en el fortalecimiento de la CTeI (Ciencia, Tecnología e Innovación) 
+              Por su acompañamiento en el fortalecimiento de la CTI (Ciencia, Tecnología e Innovación)
               para las regiones y el apoyo en la construcción de este material educativo.
             </p>
           </div>
@@ -129,7 +129,7 @@ export function Agradecimientos() {
         <div className="text-center space-y-4">
           <BookOpen className="size-12 mx-auto" />
           <p className="text-2xl leading-relaxed italic">
-            "Esta cartilla es un puente entre el ayer y el mañana, entre los abuelos y los nietos, 
+            "Esta cartilla es un puente entre el ayer y el mañana, entre los abuelos y los nietos,
             entre la tradición y la tecnología."
           </p>
         </div>
@@ -140,8 +140,8 @@ export function Agradecimientos() {
         <h3 className="text-orange-800 mb-4">REFERENCIAS BIBLIOGRÁFICAS</h3>
         <div className="space-y-3 text-gray-700">
           <p className="leading-relaxed">
-            • Equipo de Territorio del Resguardo Indígena La Gaitana. (2021). 
-            <em> ESEJTT R.I. La Gaitana–Inzá.</em> [Archivo PDF].
+            • Equipo de Territorio del Resguardo Indígena La Gaitana. (2021).
+            <em> ESEJTT R.I. La Gaitana–Inzá.</em> .
           </p>
           <p className="leading-relaxed">
             • Entrevistas a mayores y mayoras del Resguardo La Gaitana (2025)
@@ -150,7 +150,7 @@ export function Agradecimientos() {
             • González, A. (2020). <em>La Acción Solidaria para el Desarrollo Regional.</em> UNAD.
           </p>
           <p className="leading-relaxed">
-            • Sandoval, Y. et al. (2019). <em>El fomento de la CTeI desde la UNAD para las regiones.</em> 
+            • Sandoval, Y. et al. (2019). <em>El fomento de la CTI desde la UNAD para las regiones.</em>
             Sello Editorial UNAD.
           </p>
         </div>
