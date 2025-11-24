@@ -140,7 +140,7 @@ export default function App() {
           <p>© Resguardo Indígena La Gaitana, 2025</p>
           <p className="text-amber-200 mt-2">
             El conocimiento aquí compartido es propiedad colectiva de nuestra comunidad.
-            Cartilla digital elaborada con dedicación por  Angie Lorena Lopez Ortega
+            Cartilla digital elaborada con dedicación por  Angie Lorena Lopez Ortega estudiante de Ingeneria de Sistemas
           </p>
         </div>
       </footer>
