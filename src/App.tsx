@@ -49,32 +49,44 @@ export default function App() {
     <div className="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50">
       {/* Header */}
       <header className="bg-gradient-to-r from-orange-800 to-amber-700 text-white shadow-lg sticky top-0 z-50">
-        <div className="container mx-auto px-4 py-6 flex items-center justify-between">
+        <div className="container mx-auto px-4 py-1 flex items-center justify-between">
 
           {/* Imagen izquierda */}
-          <img
-            src="/img/logo.svg.png"
-            alt="Universidad"
-            className="w-10 h-10 object-contain"
-          />
+          <div className="w-48 h-48 overflow-hidden flex items-center justify-center rounded">
+            <img
+              src="/img/Logo_unad_color.png"
+              alt="Universidad"
+              className="w-full h-full object-contain"
+            />
+          </div>
 
           {/* Título centrado */}
-          <div className="text-center flex-1">
-            <h1 className="text-xl font-bold"> SABERES DE NUESTROS MAYORES - Yaçkatey fxizenxis athnxisa</h1>
-            <p className="text-amber-100 mt-1">
+          <div className="text-center flex-1 px-4">
+            <h1 className="text-base font-bold">
+              SABERES DE NUESTROS MAYORES - Yaçkatey fxizenxis athnxisa
+            </h1>
+            <p className="text-amber-100 mt-1 text-xs">
               Cartilla Digital del Resguardo Indígena La Gaitana
             </p>
           </div>
 
           {/* Imagen derecha */}
-          <img
-            src="/img/fondo.jpeg"
-            src="/img/unnamed.jpg"
-            alt="Resguardo"
-            className="w-10 h-10 object-contain"
-          />
+          <div className="w-48 h-48 overflow-hidden flex items-center justify-center rounded">
+            <img
+              src="/img/unnamed.jpg"
+              alt="Resguardo"
+              className="w-full h-full object-cover"
+            />
+          </div>
+
         </div>
       </header>
+
+
+
+
+
+
 
 
 

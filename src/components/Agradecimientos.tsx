@@ -163,7 +163,10 @@ export function Agradecimientos() {
         </p>
         <p className="text-orange-700 mt-3 leading-relaxed">
           El conocimiento aquí compartido es propiedad colectiva de nuestra comunidad.
-          Diseño, desarrollo y digitalización por Angie Lorena Lopez Ortega, estudiante de Ingeniería de Sistemas.
+
+        </p>
+        <p className="text-orange-700 mt-3 leading-relaxed">
+          Diseño, desarrollo y digitalización por Angie Lorena Lopez Ortega, estudiante de Ingeniería de Sistemas UNAD.
         </p>
       </div>
     </div>
